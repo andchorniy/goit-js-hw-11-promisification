@@ -1,3 +1,3 @@
-import './styles.css';
-import './js/template'
-import './js/switch'
+import './js/task-1'
+import './js/task-2'
+import './js/task-3'
